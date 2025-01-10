@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"objBlock1","path":"objects/objBlock1/objBlock1.yy",},},
     {"id":{"name":"rm_11_12","path":"rooms/rm_11_12/rm_11_12.yy",},},
+    {"id":{"name":"rm_12_12","path":"rooms/rm_12_12/rm_12_12.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sprBlock","path":"sprites/sprBlock/sprBlock.yy",},},
   ],
@@ -44,6 +45,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_11_12","path":"rooms/rm_11_12/rm_11_12.yy",},},
+    {"roomId":{"name":"rm_12_12","path":"rooms/rm_12_12/rm_12_12.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
