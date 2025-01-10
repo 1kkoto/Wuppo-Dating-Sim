@@ -46,5 +46,5 @@
     "name":"maskBlock",
     "path":"sprites/maskBlock/maskBlock.yy",
   },
-  "visible":true,
+  "visible":false,
 }

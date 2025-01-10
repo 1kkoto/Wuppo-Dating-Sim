@@ -43,5 +43,5 @@
     "name":"maskBlockJumpThrough",
     "path":"sprites/maskBlockJumpThrough/maskBlockJumpThrough.yy",
   },
-  "visible":true,
+  "visible":false,
 }
