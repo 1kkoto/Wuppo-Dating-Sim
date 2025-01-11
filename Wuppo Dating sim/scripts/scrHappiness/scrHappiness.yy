@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_NewGameAllVariables",
+  "%Name":"scrHappiness",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_NewGameAllVariables",
+  "name":"scrHappiness",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
