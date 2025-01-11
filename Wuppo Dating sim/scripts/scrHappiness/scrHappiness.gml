@@ -10,6 +10,5 @@ function scrHappiness() //gml_Script_scrHappiness
     }
     if (arg[1] <= 0)
         arg[1] = 35
-    if (global.maxhpget[arg[0]] > 0)
 }
 
