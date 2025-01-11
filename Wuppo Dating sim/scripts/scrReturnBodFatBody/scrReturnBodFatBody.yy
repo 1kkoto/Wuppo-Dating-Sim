@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrReturnBodFatBody",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrReturnBodFatBody",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

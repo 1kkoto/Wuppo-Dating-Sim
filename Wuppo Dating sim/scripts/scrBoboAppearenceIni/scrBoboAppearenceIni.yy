@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrBoboAppearenceIni",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrBoboAppearenceIni",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
