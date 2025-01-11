@@ -57,6 +57,7 @@
     {"id":{"name":"scrHappinessAfterDialogue","path":"scripts/scrHappinessAfterDialogue/scrHappinessAfterDialogue.yy",},},
     {"id":{"name":"scrNewGameAllVariables","path":"scripts/scrNewGameAllVariables/scrNewGameAllVariables.yy",},},
     {"id":{"name":"scrReturnBodFatBody","path":"scripts/scrReturnBodFatBody/scrReturnBodFatBody.yy",},},
+    {"id":{"name":"scrWepAdObj","path":"scripts/scrWepAdObj/scrWepAdObj.yy",},},
     {"id":{"name":"scrWumDirtSurfaceIni","path":"scripts/scrWumDirtSurfaceIni/scrWumDirtSurfaceIni.yy",},},
     {"id":{"name":"maskBlock","path":"sprites/maskBlock/maskBlock.yy",},},
     {"id":{"name":"maskBlockJumpThrough","path":"sprites/maskBlockJumpThrough/maskBlockJumpThrough.yy",},},
